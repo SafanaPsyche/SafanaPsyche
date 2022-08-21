@@ -1,5 +1,5 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="ekramasif"> I'm <a href="https://github.com/SafanaPsyche/" color="white" target="_blank">Safana Quyum Chowdhury</a></h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka"></br>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="SafanaPsyche"> I'm <a href="https://github.com/SafanaPsyche/" color="white" target="_blank">Safana Quyum Chowdhury</a></h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SafanaPsyche.SafanaPsyche"></br>
 
 
 - 🔭 I’m currently undergraduate CSE student
